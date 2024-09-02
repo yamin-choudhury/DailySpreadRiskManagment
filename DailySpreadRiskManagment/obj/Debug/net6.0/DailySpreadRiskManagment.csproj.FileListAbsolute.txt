@@ -1,0 +1,5 @@
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\DailySpreadRiskManagment\DailySpreadRiskManagment\obj\Debug\net6.0\DailySpreadRiskManagment.csproj.AssemblyReference.cache
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\DailySpreadRiskManagment\DailySpreadRiskManagment\obj\Debug\net6.0\DailySpreadRiskManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\DailySpreadRiskManagment\DailySpreadRiskManagment\obj\Debug\net6.0\DailySpreadRiskManagment.AssemblyInfoInputs.cache
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\DailySpreadRiskManagment\DailySpreadRiskManagment\obj\Debug\net6.0\DailySpreadRiskManagment.AssemblyInfo.cs
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\DailySpreadRiskManagment\DailySpreadRiskManagment\obj\Debug\net6.0\DailySpreadRiskManagment.csproj.CoreCompileInputs.cache

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\DailySpreadRiskManagment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\DailySpreadRiskManagment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\DailySpreadRiskManagment.csproj",
+        "projectName": "DailySpreadRiskManagment",
+        "projectPath": "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\DailySpreadRiskManagment.csproj",
+        "packagesPath": "C:\\Users\\YaminChoudhury\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\YaminChoudhury\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "cTrader.Automate": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

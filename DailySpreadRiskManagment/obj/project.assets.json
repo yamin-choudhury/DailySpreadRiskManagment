@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "cTrader.Automate/1.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/cAlgo.API.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/cAlgo.API.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/cTrader.Automate.props": {},
+          "build/cTrader.Automate.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cTrader.Automate/1.0.9": {
+      "sha512": "F2rQGQi6h9OVGfd4ePfa8nr1qU+WOqTFYnpm3hr6E+ibtgUamuzTelupnxNuPCBbuBHuxyvrCL+4emiOfdAIRg==",
+      "type": "package",
+      "path": "ctrader.automate/1.0.9",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/cTrader.Automate.props",
+        "build/cTrader.Automate.targets",
+        "ctrader.automate.1.0.9.nupkg.sha512",
+        "ctrader.automate.nuspec",
+        "eula.md",
+        "icon.png",
+        "lib/net40/cAlgo.API.dll",
+        "lib/net40/cAlgo.API.xml",
+        "lib/net6.0/cAlgo.API.dll",
+        "lib/net6.0/cAlgo.API.xml",
+        "tools/net472/Core.AlgoFormat.Compose.Reflection.dll",
+        "tools/net472/Core.AlgoFormat.Writer.dll",
+        "tools/net472/Core.AlgoFormat.dll",
+        "tools/net472/Core.Domain.Primitives.dll",
+        "tools/net472/Newtonsoft.Json.dll",
+        "tools/net472/System.Buffers.dll",
+        "tools/net472/System.Collections.Immutable.dll",
+        "tools/net472/System.Memory.dll",
+        "tools/net472/System.Numerics.Vectors.dll",
+        "tools/net472/System.Reflection.Metadata.dll",
+        "tools/net472/System.Reflection.MetadataLoadContext.dll",
+        "tools/net472/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/net472/cTrader.Automate.Sdk.Tasks.dll",
+        "tools/net6.0/Core.AlgoFormat.Compose.Reflection.dll",
+        "tools/net6.0/Core.AlgoFormat.Writer.dll",
+        "tools/net6.0/Core.AlgoFormat.dll",
+        "tools/net6.0/Core.Domain.Primitives.dll",
+        "tools/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "tools/net6.0/Newtonsoft.Json.dll",
+        "tools/net6.0/System.Drawing.Common.dll",
+        "tools/net6.0/System.Reflection.MetadataLoadContext.dll",
+        "tools/net6.0/System.Security.Permissions.dll",
+        "tools/net6.0/System.Windows.Extensions.dll",
+        "tools/net6.0/cTrader.Automate.Sdk.Tasks.dll",
+        "tools/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll",
+        "tools/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "tools/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll",
+        "tools/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "cTrader.Automate >= *"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\YaminChoudhury\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\DailySpreadRiskManagment.csproj",
+      "projectName": "DailySpreadRiskManagment",
+      "projectPath": "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\DailySpreadRiskManagment.csproj",
+      "packagesPath": "C:\\Users\\YaminChoudhury\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\YaminChoudhury\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "cTrader.Automate": {
+            "target": "Package",
+            "version": "[*, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

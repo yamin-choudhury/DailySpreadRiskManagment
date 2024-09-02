@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zTTPbjgtPHuGA5+qWxv51wb431C6osLXisIFsFDaxD2c2VYDvDilM6mhLWQAXfZR0RKQtYhRkBja9kod8hRPbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YaminChoudhury\\Documents\\cAlgo\\Sources\\Robots\\DailySpreadRiskManagment\\DailySpreadRiskManagment\\DailySpreadRiskManagment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YaminChoudhury\\.nuget\\packages\\ctrader.automate\\1.0.9\\ctrader.automate.1.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
